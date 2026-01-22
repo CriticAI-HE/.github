@@ -1,4 +1,4 @@
-## Welcome to CriticAI
+## Welcome to CriticAI 👋
 
 CriticAI is a community of practice to critically enquiry about AI’s adoption in HE and influence in the decision-making processes to ensure that AI usage is aligned with
 academia’s ethos.
